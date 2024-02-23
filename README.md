@@ -9,7 +9,9 @@ This repository contains Python code examples demonstrating how to generate diag
 Ensure you have the following prerequisites installed:
 
 Python 3.6 or later
+
 Graphviz (for rendering diagrams)
+
 C++ Build Tools (if using Visual Studio 2022, choose the "Desktop development with C++" option)
 
 ## Installation
